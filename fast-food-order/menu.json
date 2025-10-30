@@ -1,0 +1,15 @@
+{
+  "main_food": [
+    {"name": "Burger", "price": 5.99},
+    {"name": "Pizza Slice", "price": 3.50},
+    {"name": "Hot Dog", "price": 4.25}
+  ],
+  "side_items": [
+    {"name": "Fries", "price": 2.50},
+    {"name": "Onion Rings", "price": 3.00}
+  ],
+  "drinks": [
+    {"name": "Soda", "price": 1.99},
+    {"name": "Water", "price": 1.00}
+  ]
+}
